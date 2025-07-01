@@ -18,19 +18,11 @@ Umbrellas is a secure, web-based mental health journaling app that provides AI-p
 - **AI Integration**: OpenAI GPT-4o-mini via API
 - **Templating**: EJS
 
-## 🚀 Installation
-
-### Prerequisites
-
-- Node.js (v16+)
-- MongoDB URI
-- OpenAI API Key
-
-### Instructions
+### 🚀 Installation
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/spanhornet/umbrellas.git
+   git clone https://github.com/ayukumar34/umbrellas.git
    cd umbrellas
 
 2. Install dependencies:
@@ -54,7 +46,7 @@ Umbrellas is a secure, web-based mental health journaling app that provides AI-p
 
 6. Open your browser and visit http://localhost:3000
 
-## 🎥 Demo
+### 🎥 Demo
 
 Want to see how it works before diving in?
 
